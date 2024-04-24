@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋🏻<br>I am a Backend Developer with +1 year of experience on development. You can find me here:
+Hi 👋🏻<br>I am a Backend Developer with 2 years of experience on development. You can find me here:
 
 
 ## 🌐 Socials:
