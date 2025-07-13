@@ -1,4 +1,6 @@
 # 💫 About Me:
+[![GitHub Streak](https://streak-stats.demolab.com?user=walter2310&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 Hi 👋🏻<br>I am a Backend Developer with +2 years of experience on development. You can find me here:
 
 
