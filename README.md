@@ -5,7 +5,7 @@
 I am a Backend Developer with +3 years of experience on development. You can find me here:
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wpartera/) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wpartera/)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=ts,go,nodejs,nestjs,aws,postgres,prisma,docker,jest,mongodb,redis,vercel,githubactions)](https://skillicons.dev)
