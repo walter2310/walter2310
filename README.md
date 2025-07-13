@@ -8,6 +8,6 @@ I am a Backend Developer with +3 years of experience on development. You can fin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wpartera/) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=ts,go,nodejs,nestjs,aws,postgres,docker,jest,mongodb,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,go,nodejs,nestjs,aws,postgres,prisma,docker,jest,mongodb,redis,vercel,githubactions)](https://skillicons.dev)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
